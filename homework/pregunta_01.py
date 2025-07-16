@@ -30,7 +30,7 @@ def pregunta_01():
     colors = {
         "Television": "dimgray",
         "Newspaper": "grey", 
-        "Internet": "tab:blue",
+        "Internet": "tab:red",
         "Radio": "lightgrey",
     }
     
